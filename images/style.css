@@ -1,5 +1,5 @@
 body{
-    background: rgb(249, 250, 248);
+    background: rgb(198, 211, 235);
     font-family: Arial, Helvetica, sans-serif;
     color: rgb(37, 26, 26);
 
@@ -7,18 +7,22 @@ body{
 .nav-wrapper {
     background-color: rgb(8, 80, 139);   
     font-family: Arial, Helvetica, sans-serif;
-    /* text-align: justify; */
-    /* height: 150px; */
+    
 }
 #nav-head{
     height: 100px;
-    text-align: center;
+    
     
 }
 #name{
     text-align: center;
 }
 h1{
+    font-size: 1.0em;
+    color: rgb(2, 30, 53);
+}
+h4{
+    top: 10px;
     font-size: 1.0em;
     color: rgb(2, 30, 53);
 }
